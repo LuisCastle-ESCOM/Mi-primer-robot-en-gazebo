@@ -25,3 +25,6 @@ Se diseño la oficina en el building editor de gazebo a partir del siguiente pla
 Por ùltimo vamos a la interfaz principal de gazebo y arrastramos los modelos que diseñamos al entorno de simulaciòn
 
 
+
+
+
