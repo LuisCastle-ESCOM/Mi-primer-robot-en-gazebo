@@ -20,3 +20,8 @@ Llantas:
 Se diseño la oficina en el building editor de gazebo a partir del siguiente plano
 
 ![oficina](https://user-images.githubusercontent.com/77514478/113383643-9a8cad00-9341-11eb-8288-389c225b1e2b.jpg)
+
+## Crear archivo de mundo
+Por ùltimo vamos a la interfaz principal de gazebo y arrastramos los modelos que diseñamos al entorno de simulaciòn
+
+
