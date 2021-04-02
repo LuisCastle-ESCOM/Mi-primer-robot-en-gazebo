@@ -12,7 +12,7 @@ Chasis:
 
 Llantas:
 
-    • Z pose = 0.2
+    • Z pose = -0.2
     • Roll = 1.5707 rad
     • Visual and Collision geometry: [Radius, Length] = [0.2, 0.1]
     
